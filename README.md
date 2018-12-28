@@ -8,9 +8,9 @@ based on similar libraries in other languages
 
 ## Leiningen
 
-__([via Clojars](https://clojars.org/clojure-humanize))__
+__([via Clojars](https://clojars.org/oc-humanize))__
 
-[![Clojars Project](http://clojars.org/clojure-humanize/latest-version.svg)](http://clojars.org/clojure-humanize)
+[![Clojars Project](http://clojars.org/oc-humanize/latest-version.svg)](http://clojars.org/oc-humanize)
 
 ## Usage
 
