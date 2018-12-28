@@ -1,3 +1,10 @@
+## 0.2.3-alpha1
+
+Updated dependencies.
+
+Renamed ns `clojure.contrib.macros` to `clojure.contrib.humanize-macros` to avoid clash with [https://clojure.github.io/clojure-contrib/macros-api.html](https://clojure.github.io/clojure-contrib/macros-api.html).
+
+
 ## 0.2.2
 
 `clojure.contrib.inflect/datetime` now supports diffs that represent a 
